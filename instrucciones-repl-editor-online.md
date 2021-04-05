@@ -1,18 +1,21 @@
 # Instrucciones Repl
 
-1. Crear una cuenta en Github: https://github.com/.
-2. Entrar a https://repl.it. Repl es un editor de texto online que también nos permite ejecutar programas.
+Repl es un editor de texto online que también nos permite ejecutar programas. De esta forma no necesitas instalar nada en tu computador para hacer el curso.
 
-![Pantalla Inicial](images/repl-1.png)
+Para utilizar Repl sigue estas instrucciones:
 
-![Login](images/repl-2.png)
+1. Si aún no tienes cuenta en Github debes crear una: https://github.com/.
+2. Entra a https://repl.it y oprime el botón Sign Up:
 
-Si no estás autenticado en Github te pedirá tu usuario y contraseña primero. Después aparecerá una pantalla como la siguiente:
+    ![Pantalla Inicial](images/repl-1.png)
 
-![Autorizar](images/repl-3.png)
+    ![Login](images/repl-2.png)
+3. Si no estás autenticado en Github te pedirá tu usuario y contraseña primero. Después aparecerá una pantalla como la siguiente:
 
-Para crear el primer proyecto:
+    ![Autorizar](images/repl-3.png)
 
-![Nuevo Proyecto](images/repl-4.png)
+4. Crea tu primer proyecto:
 
-![Crear nuevo Proyecto](images/repl-5.png)
+    ![Nuevo Proyecto](images/repl-4.png)
+
+    ![Crear nuevo Proyecto](images/repl-5.png)
